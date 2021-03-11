@@ -1,0 +1,3 @@
+<template>
+  <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" viewBox="0 0 140 140" class="stroke-current"><g transform="matrix(5.833333333333333,0,0,5.833333333333333,0,0)"><path d="M0.748 12.000 A11.250 11.250 0 1 0 23.248 12.000 A11.250 11.250 0 1 0 0.748 12.000 Z" fill="none"   stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path><path d="M7.498 16.5L16.497 7.5" fill="none"   stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path><path d="M16.498 16.5L7.497 7.5" fill="none"   stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path></g></svg>
+</template>
